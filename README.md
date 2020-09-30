@@ -7,7 +7,9 @@ This is the program to make the Sobel transformation over the image.
 
 ## Usage
 
-sbt run "path_to_original_image" "path_to_result.png"
+```console
+$ sbt "run path_to_original_image path_to_result.png"
+```
 
 ## License
 
